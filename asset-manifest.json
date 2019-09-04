@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-react-color-generator/static/css/main.c95577c9.chunk.css",
+    "main.js": "/simple-react-color-generator/static/js/main.47cce27a.chunk.js",
+    "main.js.map": "/simple-react-color-generator/static/js/main.47cce27a.chunk.js.map",
+    "runtime~main.js": "/simple-react-color-generator/static/js/runtime~main.ba0b5188.js",
+    "runtime~main.js.map": "/simple-react-color-generator/static/js/runtime~main.ba0b5188.js.map",
+    "static/js/2.e5d445cf.chunk.js": "/simple-react-color-generator/static/js/2.e5d445cf.chunk.js",
+    "static/js/2.e5d445cf.chunk.js.map": "/simple-react-color-generator/static/js/2.e5d445cf.chunk.js.map",
+    "index.html": "/simple-react-color-generator/index.html",
+    "precache-manifest.74d63424af604af1c55a9764d5e13860.js": "/simple-react-color-generator/precache-manifest.74d63424af604af1c55a9764d5e13860.js",
+    "service-worker.js": "/simple-react-color-generator/service-worker.js",
+    "static/css/main.c95577c9.chunk.css.map": "/simple-react-color-generator/static/css/main.c95577c9.chunk.css.map"
+  }
+}
